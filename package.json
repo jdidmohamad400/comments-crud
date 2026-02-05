@@ -2,6 +2,8 @@
   "name": "comments-crud",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://jdidmohamad400.github.io/comments-crud",
+
   "type": "module",
   "scripts": {
     "dev": "vite",
